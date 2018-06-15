@@ -1,6 +1,5 @@
-def my_collect
+def my_collect(array)
   while
-end
-  
+  end
 end
 
